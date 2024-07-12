@@ -4,7 +4,7 @@
 <h4>Tietoja sanastoselaimesta</h4>
 <p>Skosmos on web-pohjainen sanasto ja ontologiaselain.</p>
 <a href="http://github.com/NatLibFi/Skosmos">Skosmos GitHub-repositorio</a>
-{% elseif request.lang == 'sv' %}
+{% elseif request.lang == 'pt' %}
 
 <h4>Information</h4>
 <p>Skosmos är en ontologibrowser.</p>

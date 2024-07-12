@@ -12,7 +12,7 @@
   "basePath": "/rest/v1",
   "produces": [
     "application/rdf+xml",
-    "text/turtle",
+    "text/turtle",  
     "application/ld+json",
     "application/json"
   ],
